@@ -17,6 +17,8 @@ It's a so big project , here is [CSS Home](https://www.w3.org/Style/CSS/).
 
 * First thing, [Starting with HTML + CSS](https://www.w3.org/Style/Examples/011/firstcss/). When CSS finished , needs a [CSS Validation Service](https://jigsaw.w3.org/css-validator/).
 
+* Don't worry about to forget CSS code. Every where have. The point is that you must really konw how it use. 
+
 * [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp) is an important thing. It can used to design and layout. Sometimes you have to calculate exactly.
 
 * Here is the [first practice](index1.html).
@@ -32,6 +34,21 @@ Sorry, to understand How is CSS workd wonderfully, I must learn more Basic knowl
 * Continue CSS, Color is useful. so [CSS Color](https://www.w3schools.com/css/css3_colors.asp) is point.
 
 * Learn a new framework，Modern Responsive CSS，I try to [do some practice here](index2.html)
+
+HTML and CSS . All finished ? But , they told me 3 languages all web developers must learn: JS
+
+# How to write JavaScript
+
+Why Study JavaScript? (JS). [According to W3CSchoole](https://www.w3schools.com/js/default.asp):
+
+> 1. HTML to define the content of web pages
+>
+> 2. CSS to specify the layout of web pages
+>
+> 3. JavaScript to program the behavior of web pages
+
+* Now , continute [Learn JavaScript](https://www.w3schools.com/js/default.asp) (Why they don't finish lession in HTML , but ASP ? )
+
 
 
 
